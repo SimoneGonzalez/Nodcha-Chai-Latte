@@ -1,0 +1,23 @@
+{
+  "name": "nodcha-chai-latte",
+  "version": "1.0.0",
+  "description": "Node, Mocha, Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimoneGonzalez/Nodcha-Chai-Latte.git"
+  },
+  "author": "Simone Gonzalez <simone.b.gonzalez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimoneGonzalez/Nodcha-Chai-Latte/issues"
+  },
+  "homepage": "https://github.com/SimoneGonzalez/Nodcha-Chai-Latte#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
